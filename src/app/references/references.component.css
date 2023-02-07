@@ -1,0 +1,35 @@
+.masthead {
+  padding-top: 10.5rem;
+  padding-bottom: 15rem;
+  text-align: center;
+  background-image: url('https://raw.githubusercontent.com/patrickmariano04/ADWEB/main/src/assets/img/about/references.jpg');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+  color: aliceblue;
+}
+
+h2 {
+  color: white;
+  text-align: left;
+  margin-left: 10%;
+  margin-top: -4%;
+  font-size: 3rem;
+}
+
+.ppl1 {
+  position: relative;
+  font-size: 2em;
+  margin-top: 6%;
+  margin-left: 30%;
+  text-align: left;
+}
+
+.ppl2 {
+  position: absolute;
+  font-size: 2em;
+  margin-top: -19%;
+  margin-left: 55%;
+  text-align: left;
+}

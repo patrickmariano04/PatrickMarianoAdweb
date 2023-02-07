@@ -1,0 +1,92 @@
+.page-section {
+  padding: 6rem 0;
+  text-align: center;
+  margin-top: -10%;
+  margin-right: 10%;
+  color: aliceblue;
+}
+.table-responsive {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.page-section h2.section-heading,
+.page-section .section-heading.h2 {
+  font-size: 5rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  margin-right: 60%;
+}
+.page-section h3.section-subheading,
+.page-section .section-subheading.h3 {
+  font-size: 1rem;
+  font-weight: 400;
+  font-style: italic;
+  font-family: 'Roboto Slab', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  margin-bottom: 4rem;
+}
+img {
+  width: 30%;
+  margin-right: 55%;
+  position: relative;
+}
+h3 {
+  margin-top: -27%;
+  margin-left: 40%;
+  font-size: 2em;
+  position: absolute;
+  font-family: 'Roboto Slab', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
+.fst-italic {
+  position: absolute;
+  margin-top: -20%;
+  margin-left: 40%;
+  text-align: left;
+  font-size: 1.9em;
+}
+
+ul li {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+}
+
+i {
+  font-size: 16px;
+  margin-right: 5px;
+  color: #149ddd;
+  line-height: 0;
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+.name {
+  position: absolute;
+  margin-top: -13%;
+  margin-left: 37%;
+  font-size: 1.5em;
+}
+
+.names {
+  position: absolute;
+  margin-top: -13%;
+  margin-left: 67%;
+  font-size: 1.5em;
+}
+.masthead {
+  padding-top: 10.5rem;
+  padding-bottom: 6rem;
+  text-align: center;
+  background-image: url('https://raw.githubusercontent.com/patrickmariano04/ADWEB/main/src/assets/img/about/header-bg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
